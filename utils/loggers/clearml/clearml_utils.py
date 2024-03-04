@@ -1,5 +1,4 @@
 """Main Logger class for ClearML experiment tracking."""
-
 import glob
 import re
 from pathlib import Path
